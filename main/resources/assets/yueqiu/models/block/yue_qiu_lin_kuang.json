@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yueqiu:block/yue_qiu_ling_kuang",
+    "up": "yueqiu:block/yue_qiu_ling_kuang",
+    "north": "yueqiu:block/yue_qiu_ling_kuang",
+    "east": "yueqiu:block/yue_qiu_ling_kuang",
+    "south": "yueqiu:block/yue_qiu_ling_kuang",
+    "west": "yueqiu:block/yue_qiu_ling_kuang",
+    "particle": "yueqiu:block/yue_qiu_ling_kuang"
+  },
+  "render_type": "solid"
+}

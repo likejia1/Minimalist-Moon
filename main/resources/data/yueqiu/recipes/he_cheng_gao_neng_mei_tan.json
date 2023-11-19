@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:coal"
+    },
+    "1": {
+      "item": "yueqiu:li_kuang_shi"
+    },
+    "2": {
+      "item": "minecraft:coal"
+    },
+    "3": {
+      "item": "yueqiu:li_kuang_shi"
+    },
+    "4": {
+      "item": "minecraft:coal"
+    },
+    "5": {
+      "item": "yueqiu:li_kuang_shi"
+    },
+    "6": {
+      "item": "minecraft:coal"
+    },
+    "7": {
+      "item": "yueqiu:li_kuang_shi"
+    },
+    "8": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "yueqiu:gao_neng_mei_tan",
+    "count": 9
+  }
+}

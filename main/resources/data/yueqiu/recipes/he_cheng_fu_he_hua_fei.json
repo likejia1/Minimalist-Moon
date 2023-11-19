@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "tag": "minecraft:leaves"
+    },
+    "3": {
+      "tag": "minecraft:leaves"
+    },
+    "4": {
+      "item": "yueqiu:lin_ding"
+    },
+    "5": {
+      "tag": "minecraft:leaves"
+    },
+    "7": {
+      "tag": "minecraft:leaves"
+    }
+  },
+  "result": {
+    "item": "yueqiu:fu_he_hua_fei",
+    "count": 2
+  }
+}

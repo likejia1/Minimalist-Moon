@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "yueqiu:yue_qiu_qun_xi",
+  "features": "yueqiu:yun_shi_keng",
+  "step": "surface_structures"
+}

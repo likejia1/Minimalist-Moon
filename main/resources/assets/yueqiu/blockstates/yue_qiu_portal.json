@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "yueqiu:block/yue_qiu_portal_ew"
+    },
+    "axis=x": {
+      "model": "yueqiu:block/yue_qiu_portal_ns"
+    }
+  }
+}

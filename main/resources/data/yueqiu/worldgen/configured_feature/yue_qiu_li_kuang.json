@@ -1,0 +1,20 @@
+{
+  "type": "yueqiu:yue_qiu_li_kuang",
+  "config": {
+    "size": 16,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "yueqiu:yue_yan"
+          }
+        },
+        "state": {
+          "Name": "yueqiu:yue_qiu_li_kuang"
+        }
+      }
+    ]
+  }
+}

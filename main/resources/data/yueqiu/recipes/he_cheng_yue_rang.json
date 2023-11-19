@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gravel"
+    },
+    "1": {
+      "item": "minecraft:white_dye"
+    },
+    "2": {
+      "item": "minecraft:gravel"
+    },
+    "3": {
+      "item": "minecraft:white_dye"
+    },
+    "4": {
+      "tag": "minecraft:dirt"
+    },
+    "5": {
+      "item": "minecraft:white_dye"
+    },
+    "6": {
+      "item": "minecraft:gravel"
+    },
+    "7": {
+      "item": "minecraft:white_dye"
+    },
+    "8": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "yueqiu:yue_rang",
+    "count": 5
+  }
+}

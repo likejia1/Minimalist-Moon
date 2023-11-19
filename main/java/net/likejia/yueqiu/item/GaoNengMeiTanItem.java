@@ -1,0 +1,11 @@
+
+package net.likejia.yueqiu.item;
+
+import net.minecraft.world.item.Rarity;
+import net.minecraft.world.item.Item;
+
+public class GaoNengMeiTanItem extends Item {
+	public GaoNengMeiTanItem() {
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON));
+	}
+}

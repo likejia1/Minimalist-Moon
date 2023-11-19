@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:stone"
+    },
+    "1": {
+      "tag": "minecraft:stone"
+    },
+    "2": {
+      "tag": "minecraft:stone"
+    },
+    "3": {
+      "tag": "minecraft:stone"
+    },
+    "4": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "5": {
+      "tag": "minecraft:stone"
+    },
+    "6": {
+      "item": "yueqiu:yue_rang"
+    },
+    "7": {
+      "item": "minecraft:dragon_breath"
+    },
+    "8": {
+      "item": "yueqiu:yue_rang"
+    }
+  },
+  "result": {
+    "item": "yueqiu:yue_yan",
+    "count": 8
+  }
+}

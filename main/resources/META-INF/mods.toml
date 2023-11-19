@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="yueqiu"
+version="1.0.0"
+displayName="月球"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="likejia"
+
+[[dependencies.yueqiu]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

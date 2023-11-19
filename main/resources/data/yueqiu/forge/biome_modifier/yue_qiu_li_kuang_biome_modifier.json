@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "yueqiu:yue_qiu_li_kuang",
+  "step": "underground_ores"
+}
